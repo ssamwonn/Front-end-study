@@ -36,7 +36,7 @@ render() {
       <TodoItemList todos={todos} onToggle={handleToggle} onRemove={handleRemove}/>
     </TodoListTemplate>
   );
-}
+ }
 }
 
 export default App;
